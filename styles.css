@@ -79,7 +79,9 @@ body {
   padding: 50px 15px;
   text-align: center;
 }
-
-.section--gray {
+.page {
+  padding-top: 70px;
+}
+.section__gray {
   background-color: #f8f8f8;
 }
