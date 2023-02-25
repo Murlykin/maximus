@@ -92,8 +92,11 @@ color: darkgoldenrod;
   padding: 80px 15px;
   text-align: center;
 }
+.section_p{
+  padding: 130px;
+}
 .section:last-child{
-  padding: 60px 15px;
+  padding: 62px;
 }
 .page {
   margin-top: 50px;
