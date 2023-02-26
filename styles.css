@@ -88,7 +88,7 @@ color: darkgoldenrod;
   padding: 80px 15px;
   text-align: center;
 }
-.section_p{
+.section__p{
   padding: 80px;
 }
 .section:last-child{
@@ -129,7 +129,7 @@ color: darkgoldenrod;
  
 }
 
-.btn-up-link {
+.btn__up{
   position: fixed;
   color: blue;
   z-index: 999;
@@ -142,12 +142,12 @@ color: darkgoldenrod;
   cursor: pointer;
   transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-.btn-up-link:hover {
+.btn__up:hover {
     background-color: blue;
     color: darkgoldenrod;
   }
 
-.icon-up {
+.icon__up {
   width: 20px;
   height: 20px;
   border-top: 2px solid;
