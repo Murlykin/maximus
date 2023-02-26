@@ -16,7 +16,7 @@ function onTabClick(item) {
             });
     
             tabsItems.forEach(function (item) {
-                item.classList.remove('actived');
+                item.classList.remove('active');
             });
     
             currentBtn.classList.add('active');
