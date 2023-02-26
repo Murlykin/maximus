@@ -88,18 +88,16 @@ color: darkgoldenrod;
 
 /* Section */
 .section {
-  height: calc(100vh - 70px);
+  height: calc(100vh - -85px);
   padding: 80px 15px;
   text-align: center;
 }
 .section_p{
-  padding: 130px;
+  padding: 80px;
 }
-.section:last-child{
-  padding: 62px;
-}
+
 .page {
-  margin-top: 50px;
+  margin-top: 0px;
 }
 .section__gray {
   background-color: #f8f8f8;

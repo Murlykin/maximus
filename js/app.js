@@ -16,11 +16,11 @@ function onTabClick(item) {
             });
     
             tabsItems.forEach(function (item) {
-                item.classList.remove('active');
+                item.classList.remove('actived');
             });
     
             currentBtn.classList.add('active');
-            currentTab.classList.add('active');
+            currentTab.classList.add('actived');
         }
     });
 }
